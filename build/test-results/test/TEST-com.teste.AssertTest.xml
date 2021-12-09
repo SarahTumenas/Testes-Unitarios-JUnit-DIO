@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.teste.AssertTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-12-09T15:47:14" hostname="DESKTOP-JSBLL1J" time="0.028">
+  <properties/>
+  <testcase name="testAssertNotNull()" classname="com.teste.AssertTest" time="0.015"/>
+  <testcase name="testAssertNotSame()" classname="com.teste.AssertTest" time="0.003"/>
+  <testcase name="testAssertFalse()" classname="com.teste.AssertTest" time="0.001"/>
+  <testcase name="testAssertEquals()" classname="com.teste.AssertTest" time="0.002"/>
+  <testcase name="testAssertArrayEquals()" classname="com.teste.AssertTest" time="0.002"/>
+  <testcase name="testAssertNull()" classname="com.teste.AssertTest" time="0.001"/>
+  <testcase name="testAssertSame()" classname="com.teste.AssertTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
